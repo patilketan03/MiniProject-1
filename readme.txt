@@ -26,6 +26,6 @@ FIRST Download
 **LOGIN DETAILS** 
 
 Admin
-user: ketan
-pass: patil
+user: dnp
+pass: coe
 
